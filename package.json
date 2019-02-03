@@ -7,7 +7,7 @@
   "license": "MIT",
   "devDependencies": {
     "danger": "^6.0.0",
-    "danger-plugin-typetalk": "^0.1.5"
+    "danger-plugin-typetalk": "^0.1.6"
   },
   "scripts": {
     "danger-local": "danger local"
