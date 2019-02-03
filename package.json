@@ -1,0 +1,12 @@
+{
+  "description": "TEST",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/is2ei/danger-plugin-typetalk-test.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "danger": "^7.0.4",
+    "danger-plugin-typetalk": "^0.1.3"
+  }
+}
