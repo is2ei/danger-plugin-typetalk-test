@@ -1,5 +1,6 @@
 import {message} from "danger";
-import typetalk from "danger-plugin-typetalk";
+
+const typetalk = require("danger-plugin-typetalk").default;
 
 message("Hello, World!");
 
